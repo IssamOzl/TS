@@ -1,1 +1,0 @@
-{"version":3,"file":"FunctionRestParameter.js","sourceRoot":"","sources":["../../src/07/FunctionRestParameter.ts"],"names":[],"mappings":";AAAA,yEAAyE;AAEzE,SAAS,cAAc,CAAC,SAAgB,EAAC,GAAG,OAAgB;IACxD,MAAM,GAAG,GAAE,UAAU,OAAO,CAAC,QAAQ,EAAE,SAAS,SAAS,EAAE,CAAE;IAC7D,OAAO,GAAG,CAAC;AACf,CAAC;AAED,OAAO,CAAC,GAAG,CAAC,cAAc,CAAC,MAAM,EAAC,IAAI,EAAC,MAAM,CAAC,CAAC,CAAA"}

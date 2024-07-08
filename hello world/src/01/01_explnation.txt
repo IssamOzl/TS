@@ -1,0 +1,6 @@
+** 01 : Create Configuration And Watch Files **
+tsc -w filenme.ts : watch changes on js files and rebuild
+tsc -- init : initialisation file in order to 
+tsc -h : helper for options
+
+

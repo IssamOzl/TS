@@ -1,0 +1,13 @@
+** 02 : Statically vs Dynamically Typed Languages **
+
+Statically typed languages like [c,c++]
+    .Variables types are static, once variable declared you can't change the type
+    .Type of variable is known at compile time
+    .Errors etected earlier
+
+
+Dynamically Statically typed languages like [Php,Pyhton,js]
+    .Viarables types are dynamic, you can always change the type
+    .Type checking at execution time
+
+
